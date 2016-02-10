@@ -1,0 +1,17 @@
+{
+  "name": "javascript-katas",
+  "version": "0.0.1",
+  "description": "JavaScript Katas",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "kata",
+    "katas"
+  ],
+  "author": "Jan Oetjen <oetjenj@gmail.com>",
+  "license": "MIT"
+}
