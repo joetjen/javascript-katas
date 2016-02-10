@@ -1,8 +1,0 @@
-<component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Cucumber" type="cucumber.js" factoryName="Cucumber.js" singleton="true">
-    <option name="cucumberJsArguments" value="" />
-    <option name="executablePath" value="$PROJECT_DIR$/node_modules/.bin/cucumberjs" />
-    <option name="filePath" value="$PROJECT_DIR$/features" />
-    <method />
-  </configuration>
-</component>
