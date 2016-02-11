@@ -46,6 +46,7 @@ node_modules
 .idea/dictionaries
 
 # Sensitive or high-churn files:
+.idea/shelf/
 .idea/dataSources.ids
 .idea/dataSources.xml
 .idea/sqlDataSources.xml
